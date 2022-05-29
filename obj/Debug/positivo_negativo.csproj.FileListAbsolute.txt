@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\positivo_negativo\bin\Debug\positivo_negativo.exe.config
+C:\Users\nico\source\repos\positivo_negativo\bin\Debug\positivo_negativo.exe
+C:\Users\nico\source\repos\positivo_negativo\bin\Debug\positivo_negativo.pdb
+C:\Users\nico\source\repos\positivo_negativo\obj\Debug\positivo_negativo.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\positivo_negativo\obj\Debug\positivo_negativo.Form1.resources
+C:\Users\nico\source\repos\positivo_negativo\obj\Debug\positivo_negativo.Properties.Resources.resources
+C:\Users\nico\source\repos\positivo_negativo\obj\Debug\positivo_negativo.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\positivo_negativo\obj\Debug\positivo_negativo.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\positivo_negativo\obj\Debug\positivo_negativo.exe
+C:\Users\nico\source\repos\positivo_negativo\obj\Debug\positivo_negativo.pdb
